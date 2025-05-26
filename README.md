@@ -1,6 +1,6 @@
 # chkbe92-assmt-3
 
-This is the assignment1 submitted by chkbe92@gmail.com for tutedude.com
+This is the assignment3 submitted by chkbe92@gmail.com for tutedude.com
 
 CHK assmt3 tsk1.py  "Calculate Factorial Using a Function"
 
